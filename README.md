@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hello! I'm Naved Khan, a proactive & passionate B.Tech student majoring in IT at SRMSCET.<br>🎓 Equipped with a diverse skill set, I'm proficient in C++, Java, Python, & frontend technologies like HTML, CSS, JS, & React.js. <br>💻 My expertise also extends to backend development using Express.js & Node.js, along with MongoDB for database management. <br>🌐 As a Mobile App Developer Intern at Bolesale Technologies, I integrated APIs, developed websites, & enhanced logistics operations. <br>📱 I take pride in my project, ReactEats, a high-performing MERN stack web app for food ordering. <br>🏆 My enthusiasm for problem-solving is evident through my achievements on CodeChef & LeetCode.<br>
+With a relentless drive for innovation & a solid foundation in full-stack development, I excel in crafting cutting-edge software solutions that push boundaries & deliver exceptional user experiences. My expertise spans across a spectrum of technologies including React.js, React Native, Next.js, Node.js, MongoDB, Python, & Firebase among others.<br>
+
+💼 Professional Experience 💼<br>
+
+Wecofy, Software Developer Intern
+At Wecofy, I spearheaded the backend architecture for Cricket Winner, managing millions of requests & executing serverless functions efficiently on Vercel. I implemented SEO strategies resulting in significant traffic boosts & seamlessly integrated various APIs for enhanced functionality.
 
 
 ## 🌐 Socials:
