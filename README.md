@@ -4,9 +4,11 @@ With a relentless drive for innovation & a solid foundation in full-stack develo
 💼 Professional Experience 💼
 
 Wecofy, Software Developer Intern
+
 At Wecofy, I spearheaded the backend architecture for Cricket Winner, managing millions of requests & executing serverless functions efficiently on Vercel. I implemented SEO strategies resulting in significant traffic boosts & seamlessly integrated various APIs for enhanced functionality.
 
 Bolesale, Mobile App Developer Intern
+
 During my tenure at Bolesale, I contributed to the development of the Bolesale Buyers mobile app, integrating authentication, payment gateways, & real-time tracking functionalities. I played a pivotal role in onboarding brands, launching products, & facilitating operational growth.
 
 🛠️ Key Projects 🛠️
