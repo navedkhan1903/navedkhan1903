@@ -1,10 +1,34 @@
 # 💫 About Me:
-With a relentless drive for innovation & a solid foundation in full-stack development, I excel in crafting cutting-edge software solutions that push boundaries & deliver exceptional user experiences. My expertise spans across a spectrum of technologies including React.js, React Native, Next.js, Node.js, MongoDB, Python, & Firebase among others.<br>
+With a relentless drive for innovation & a solid foundation in full-stack development, I excel in crafting cutting-edge software solutions that push boundaries & deliver exceptional user experiences. My expertise spans across a spectrum of technologies including React.js, React Native, Next.js, Node.js, MongoDB, Python, & Firebase among others.
 
-💼 Professional Experience 💼<br>
+💼 Professional Experience 💼
 
 Wecofy, Software Developer Intern
 At Wecofy, I spearheaded the backend architecture for Cricket Winner, managing millions of requests & executing serverless functions efficiently on Vercel. I implemented SEO strategies resulting in significant traffic boosts & seamlessly integrated various APIs for enhanced functionality.
+
+Bolesale, Mobile App Developer Intern
+During my tenure at Bolesale, I contributed to the development of the Bolesale Buyers mobile app, integrating authentication, payment gateways, & real-time tracking functionalities. I played a pivotal role in onboarding brands, launching products, & facilitating operational growth.
+
+🛠️ Key Projects 🛠️
+
+ReactEats - Online Food Ordering Web App
+I engineered a scalable web application using MERN stack, accommodating high traffic & ensuring secure user access with Firebase Authentication & MongoDB. The implementation of RESTful APIs led to efficient data flow & rapid response times.
+
+SoundStats - Spotify Song Analysis Tool
+Leveraging Spotify for Developers API, I created a comprehensive song analysis tool with engaging visualizations & statistical insights. The project witnessed a substantial increase in user engagement through seamless integration of music data & statistical analysis.
+
+HelpCenter - On-Demand Services Portal
+I developed an efficient On-Demand Services Portal using Next.js, MongoDB, & Tailwind CSS, focusing on performance optimization & SEO enhancements. The project resulted in a 20% improvement in page load speed & a significant boost in organic traffic.
+
+VoiceIQ - Voice-Based ChatBot
+Utilizing Python & AI APIs, I developed a voice-based ChatBot with real-time data retrieval & seamless communication capabilities. The project delivered a user-centric interface driven by voice commands, enriching user experience.
+
+🎓 Achievements 🎓
+
+• Winner of State Level App Development Competition
+• Top performer on platforms like CodeChef & LeetCode with ratings exceeding 1600
+
+I'm driven by a passion for technology & a commitment to excellence, continuously seeking opportunities to innovate & contribute to impactful projects. Let's connect to explore how I can add value to your team or organization.
 
 
 ## 🌐 Socials:
