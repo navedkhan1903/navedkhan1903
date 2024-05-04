@@ -2,29 +2,29 @@ I'm an innovative software developer with a strong background in full stack deve
 
 🛠️ **Technical Skills** 🛠️
 
-• C++ | Java | Python <br>
-• HTML | CSS | JavaScript | TypeScript | Bootstrap | Tailwind CSS <br>
-• React.js | Redux | React Native | Next.js <br>
-• Express.js | Node.js | RESTful APIs | MongoDB | Firebase <br>
-• Vercel | Git/GitHub | SEO | Web Scraping <br>
+<li>C++ | Java | Python</li>
+<li>HTML | CSS | JavaScript | TypeScript | Bootstrap | Tailwind CSS</li>
+<li>React.js | Redux | React Native | Next.js</li>
+<li>Express.js | Node.js | RESTful APIs | MongoDB | Firebase</li>
+<li>Vercel | Git/GitHub | SEO | Web Scraping</li>
 
 💼 **Professional Experience | 10 Months** 💼
 
-• Dayzero AI - Frontend Developer Intern | 04/24 - Present <br>
-• Wecofy - Software Developer Intern | 10/23 - 04/24 <br>
-• Bolesale - Mobile App Developer Intern | 07/23 - 12/23 <br>
+<li>Dayzero AI - Frontend Developer Intern | 04/24 - Present</li>
+<li>Wecofy - Software Developer Intern | 10/23 - 04/24</li>
+<li>Bolesale - Mobile App Developer Intern | 07/23 - 12/23</li>
 
 🌐 **Live Projects** 🌐
 
-• Cricket Winner | Next.js <br>
-• Bolesale: The B2B Marketplace | React Native <br>
+<li>Cricket Winner | Next.js</li>
+<li>Bolesale: The B2B Marketplace | React Native</li>
 
 🗂️ **Personal Projects** 🗂️
 
-<li> HelpCenter - On-Demand Services Portal | Next.js </li> <br>
-• ReactEats - Online Food Ordering Web App | MERN Stack <br>
-• VoiceIQ - Voice-Based Chatbot | Python <br>
-• SoundStats - Spotify Song Analysis Tool | JavaScript <br>
+<li>HelpCenter - On-Demand Services Portal | Next.js </li>
+<li>ReactEats - Online Food Ordering Web App | MERN Stack</li>
+<li>VoiceIQ - Voice-Based Chatbot | Python</li>
+<li>SoundStats - Spotify Song Analysis Tool | JavaScript</li>
 
 🏫 **Education** 🏫
 
@@ -37,8 +37,8 @@ CGPA - 7.2 <br>
 
 🏆 **Achievements** 🏆
 
-• Awarded 1st position in App Development Event of Technovaganza 2022 State Level Technical Fest. <br>
-• Attained top ratings of 1611 on CodeChef and 1435 on LeetCode by solving over 500 coding problems. <br>
+<li>Awarded 1st position in App Development Event of Technovaganza 2022 State Level Technical Fest.</li>
+<li>Attained top ratings of 1611 on CodeChef and 1435 on LeetCode by solving over 500 coding problems.</li>
 
 🔗 **Profile Links** 🔗
 
