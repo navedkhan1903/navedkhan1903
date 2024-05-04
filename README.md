@@ -21,7 +21,7 @@ I'm an innovative software developer with a strong background in full stack deve
 
 🗂️ **Personal Projects** 🗂️
 
-• HelpCenter - On-Demand Services Portal | Next.js <br>
+<li> HelpCenter - On-Demand Services Portal | Next.js </li> <br>
 • ReactEats - Online Food Ordering Web App | MERN Stack <br>
 • VoiceIQ - Voice-Based Chatbot | Python <br>
 • SoundStats - Spotify Song Analysis Tool | JavaScript <br>
