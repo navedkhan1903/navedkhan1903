@@ -28,12 +28,12 @@ I'm an innovative software developer with a strong background in full stack deve
 
 🏫 **Education** 🏫
 
-College - Shri Ram Murti Smarak College of Engineering and Technology <br>
-Course - Bachelor of Technology <br>
-Branch - Information Technology <br>
-Coursework - DSA, DBMS, OOPs <br>
-Summer Training - Core Java <br>
-CGPA - 7.2 <br>
+<li>College - Shri Ram Murti Smarak College of Engineering and Technology</li>
+<li>Course - Bachelor of Technology</li>
+<li>Branch - Information Technology</li>
+<li>Coursework - DSA, DBMS, OOPs</li>
+<li>Summer Training - Core Java</li>
+<li>CGPA - 7.2</li><br>
 
 🏆 **Achievements** 🏆
 
@@ -42,14 +42,14 @@ CGPA - 7.2 <br>
 
 🔗 **Profile Links** 🔗
 
-GitHub - github.com/navedkhan1903 <br>
-LeetCode - leetcode.com/navedkhan <br>
-CodeChef - codechef.com/users/navedkhan <br>
-GeeksforGeeks - geeksforgeeks.org/user/navedkhan19032002 <br>
+<li>GitHub - github.com/navedkhan1903</li>
+<li>LeetCode - leetcode.com/navedkhan</li>
+<li>CodeChef - codechef.com/users/navedkhan</li>
+<li>GeeksforGeeks - geeksforgeeks.org/user/navedkhan19032002</li><br>
 
 📞 **Contact** 📞
 
-Mobile - +91 7668047946 <br>
-Email - navedkhan19032002@gmail.com <br>
+<li>Mobile - +91 7668047946</li>
+<li>Email - navedkhan19032002@gmail.com</li><br>
 
 I am passionate about leveraging cutting-edge technology to build solutions that impact lives positively. My journey as a developer has been marked by continuous learning, problem-solving, and collaboration. Let's connect and discuss how I can contribute to your projects and team.
