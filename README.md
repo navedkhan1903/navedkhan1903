@@ -1,43 +1,35 @@
-I'm an innovative software developer with a strong background in full stack development, mobile application creation, and frontend engineering. My expertise spans a wide range of programming languages and technologies. I am committed to delivering high-quality solutions and continually seek opportunities to improve processes and expand my knowledge.
+👋 Hi, I’m Naved Khan — a versatile Software Developer specializing in Full Stack Development, skilled in the latest JavaScript frameworks and backend technologies. I create scalable applications and automate workflows to boost efficiency.
 
-🛠️ **Technical Skills** 🛠️
+**🚀 What I do:**
+Develop dynamic dashboards updating hourly Excel data for 20+ apps at Tata Consultancy Services, improving monitoring and data insights 📊
+Automate client reporting with email jobs ensuring 100% on-time delivery while minimizing manual work ✉️
+Build SEO-friendly, performant web apps with Next.js, React.js, Tailwind CSS, and TypeScript that enhance user experience and grow organic traffic 📈
+Integrate APIs for payments, mapping, and messaging to deliver smooth customer journeys 🔗
 
-<li>C++ | Java | Python</li>
-<li>HTML | CSS | JavaScript | TypeScript | Bootstrap | Tailwind CSS</li>
-<li>React.js | Redux | React Native | Next.js</li>
-<li>Express.js | Node.js | PostgreSQL | Sequelize | MongoDB | Firebase</li>
-<li>Vercel | Git/GitHub | SEO | Web Scraping</li><br>
+**🌟 Internship Highlights:**
+Engineered AI interview app frontend with Next.js and LiveKit, enabling video, real-time AI Q&A, and transcription within a month 🎤
+Designed AI SaaS marketing pages, driving 23K+ organic visits monthly through effective SEO 🌐
+Developed AI workflow automation using Azure OpenAI, boosting lead management efficiency by 30% 🤖
+Built Cricket Winner full stack app managing 50M Firestore reads monthly, achieving 90+ PageSpeed score ⚡
+Crafted interactive features like followers, notifications, badges, with Firebase auth for secure engagement 🏅
+Delivered B2B marketplace app with OTP 2FA, PhonePe/Stripe payments, real-time tracking, onboarding 30+ brands, launching 400+ products 🛒
 
-💼 **Professional Experience | 1+ Year** 💼
+**💻 Skills:**
+Languages: C, Java, Python, JavaScript, TypeScript
+Frontend: React.js, Next.js, Redux, React Native, Bootstrap, Tailwind CSS
+Backend & DB: Node.js, Express.js, PostgreSQL, Sequelize, MongoDB, Firebase, AWS
+Tools: Git, GitHub, SEO, Web Scraping, OpenAI, Azure OpenAI, PageSpeed
 
-<li>Dayzero AI - Frontend Developer Intern | 04/24 - 07/24</li>
-<li>Wecofy - Software Developer Intern | 10/23 - 04/24</li>
-<li>Bolesale - Mobile App Developer Intern | 07/23 - 12/23</li><br>
+**📱 Personal Projects:**
+HelpCenter: On-Demand Services Portal with Next.js, MongoDB, TypeScript, Tailwind CSS; includes SSR, caching, lazy loading, SEO, social media integration 🔧
+VoiceIQ: Voice chatbot with OpenAI NLU, BeautifulSoup, WolframAlpha, and Google's speech APIs enabling smooth voice communication 🤖
 
-🌐 **Live Projects** 🌐
+**🎓 Education:**
+B.Tech in IT from Shri Ram Murti Smarak College of Engineering and Technology; skilled in Data Structures, OOP, DBMS 📚
+Summer training in Core Java, strengthening fundamentals 🎓
 
-<li>Worx | worx.sandbox.dayzero.ai/welcome</li>
-<li>Briefly for Business | briefly.co.in/vendor.html</li>
-<li>Cricket Winner | cricketwinner.com</li>
-<li>Bolesale: The B2B Marketplace | play.google.com/store/apps/details?id=com.bolesale.shopping</li><br>
+**🏆 Achievements:**
+1st Place, App Development at Technovaganza 2022 State Fest 🥇
+High ratings on CodeChef (1611) and LeetCode (1435), underscoring coding and problem-solving skills 🔥
 
-🏫 **Education** 🏫
-
-<li>College - Shri Ram Murti Smarak College of Engineering and Technology</li>
-<li>Course - Bachelor of Technology</li>
-<li>Branch - Information Technology</li>
-<li>Coursework - DSA, DBMS, OOPs</li>
-<li>Summer Training - Core Java</li>
-<li>CGPA - 7.2</li><br>
-
-🏆 **Achievements** 🏆
-
-<li>Awarded 1st position in App Development Event of Technovaganza 2022 State Level Technical Fest.</li>
-<li>Attained top ratings of 1611 on CodeChef and 1435 on LeetCode by solving over 500 coding problems.</li><br>
-
-📞 **Contact** 📞
-
-<li>Mobile - +91 7668047946</li>
-<li>Email - navedkhan19032002@gmail.com</li><br>
-
-I am passionate about leveraging cutting-edge technology to build solutions that impact lives positively. My journey as a developer has been marked by continuous learning, problem-solving, and collaboration. Let's connect and discuss how I can contribute to your projects and team.
+🔗 Let’s connect! Eager to collaborate, innovate, and grow in technology.
