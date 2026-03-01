@@ -1,1 +1,1 @@
-🚀 Full-stack engineer with 1+ year at TCS & 1.5+ years of startup internships under my belt! Built AI interview tools, cricket platforms, B2B SaaS apps & more. MERN | Next.js | AI-driven apps. I love shipping products that scale and make an impact. Let's build something awesome together! 💡
+🚀 Full-stack engineer with 1+ YOE at TCS & 1.5 years of startup internships under my belt! Built AI interview tools, cricket platforms, B2B SaaS apps & more. MERN | Next.js | AI-driven apps. I love shipping products that scale and make an impact. Let's build something awesome together! 💡
