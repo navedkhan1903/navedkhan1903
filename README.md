@@ -1,1 +1,1 @@
-🚀 Full-stack engineer with 1+ YOE at TCS & 1.5+ years of startup internships! Built AI tools, cricket platforms & B2B SaaS apps. Solved 700+ DSA problems - I love the grind! MERN | Next.js | AI-driven apps. Passionate about shipping products that scale. Let's build something awesome together! 💡
+Full-stack engineer (MERN, Next.js, React Native) with 2.5+ YOE across startups and enterprise, drove 7.5M+ monthly search impressions, 60K+ monthly visitors, and cut client workflows from weeks to <60 minutes using AI automation.
